@@ -4,7 +4,7 @@ A lightweight, custom-built AI agent developed from scratch using Python. This p
 
 ## 🚀 Key Features
 
-Framework Integration: Utilizes LangChain for seamless LLM orchestration and tool management.
+Framework Integration: Utilizes LangChain for seamless LLM orchestration and tool management.      
 Multi-Model Support: Compatible with various LLMs, including OpenAI's GPT series and Anthropic's Claude.
 Extensible Toolset: Features a modular tool system (defined in tools.py) allowing the agent to interact with external APIs, databases, or the local file system.
 Structured Output: Ensures the agent's responses are formatted predictably for downstream application use.
