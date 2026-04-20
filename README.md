@@ -12,7 +12,7 @@ Structured Output: Ensures the agent's responses are formatted predictably for d
 ## 🛠️ Tech Stack
 Language: Python
 Orchestration: LangChain     
-LLMs: OpenAI / Anthropic  
+LLMs: OpenAI / Anthropic    
 Dependencies: Managed via requirements.txt
 
 ## 📂 Project Structure
